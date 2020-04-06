@@ -1,0 +1,147 @@
+body{
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 40px;
+    
+}
+
+.head1{
+
+   
+
+}
+
+ button {
+    background-color: yellow;
+    padding-left: 10 px;
+    margin: 4px 2px;
+    width:19%;
+    height:50px;
+    text-align: center;
+    border: none;
+    display: inline-block;
+    font-weight: 800;
+    font-display: bold;
+
+
+}
+
+.images1 img{
+    padding-top: 40px;
+    max-width:60% ;
+    max-height: 800px;
+}
+
+ /* Image over text */
+
+
+.Taco{
+   position: absolute;
+   top: 36%;
+   left: 18%;
+   background-color: orange;
+   height: 9%;
+   
+
+}
+
+.TacoTag{
+    position: absolute;
+    top: 50%;
+    left:18%;
+    background-color: orange;
+    height: 7%;
+}
+
+.headtext1{
+
+    position: absolute;
+    top: 25%;
+    right: 8%;
+    background-color: orange;
+    width: 30%;
+    height: 30%;
+    text-align: center;
+    
+}
+
+.headtext1 h1, .headtext2 h1 {
+
+    font-size: 70px;
+}
+
+
+
+.headtext2{
+
+    position: absolute;
+    top: 60%;
+    right: 8%;
+    background-color: orange;
+    width: 30%;
+    height: 30%;
+    text-align: center;
+    
+}
+
+.bodytext{
+    margin: 4px 2px;
+}
+
+.bodytext1{
+    
+    position: absolute;
+    left: 4%;
+
+
+}
+
+.bodytext2{
+
+    position: absolute;
+    left:25%;
+}
+
+.bodytext3{
+
+    position: absolute;
+    left:50%
+}
+
+.bodytext4{
+
+    position: absolute;
+    left:75%;
+}
+
+.bodytext1 img, .bodytext2 img, .bodytext3 img, .bodytext4 img {
+    padding-top: 10px;
+
+    width: 90%;
+    max-height: 150px;
+}
+
+.tail{
+    padding-top: 25%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tail input{
+    width: 20%;
+    height: 25px;
+    border: none;
+}
+
+
+.review{
+
+}
+
+.review1{
+    position: absolute;
+}
+.review2{
+    position: absolute;
+    right: 20%;
+}
+

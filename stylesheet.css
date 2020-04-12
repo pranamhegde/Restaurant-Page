@@ -26,6 +26,10 @@ body{
 
 }
 
+button:hover {
+    cursor:pointer;
+}
+
 .images1 img{
     padding-top: 40px;
     max-width:60% ;
